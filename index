@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <meta charset="UTF-8">
+      <title>Personal Site</title>
+      <link rel="stylesheet" type="text/css" href="main.css">
+    </head>
+    <body>
+      <header class="masthead">
+        <p class="masthead-intro">Hi, I'm</p>
+        <h1 class="masthead-heading">Name!</h1>
+      </header>
+      <section class="introduction-section">
+        <h1>Introduction</h1>
+        <p>Insert short self description here!</p>
+        <p>Insert longer paragraph here</p>
+      </section>
+      <section class="featured-projects-section">
+        <h1>Featured Projects</h1>
+        <p>Insert featured projects here</p>
+      </section>
+    <footer class="content-footer">
+      <p>More About Me</p>
+      <ul class="social">
+        <li><a href="github link">GitHub</a></li>
+        <li><a href="twitter link">Twitter</a></li>
+        <li><a href="codepen link">Codepen.io</a></li>
+      </ul>
+    <p>Cover Image via <a href="http://unsplash.com">Unsplash</a></p>
+    </footer>
+    </body>
+  </html>
